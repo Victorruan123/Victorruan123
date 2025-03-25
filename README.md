@@ -30,11 +30,6 @@
   <a href="https://www.figma.com/proto/qznRd0DPeFfiI5ut6Zk9jI/Trabalho-Eliane-13%2F11?node-id=0-3&starting-point-node-id=0%3A3&t=tr9i2tpmoKNbkac2-1"><img src="https://img.shields.io/badge/Segundo_projeto-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake.svg">
-</picture>
 
 
   
