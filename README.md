@@ -17,7 +17,7 @@
 <div> 
   <a href="https://youtube.com/@zerphys?si=__kwLl2E3krmwZWl" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/victorruan55/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discordapp.com/users/656882613344141362" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatovictorruan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-ruan-3b5286290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/victorruan123" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
