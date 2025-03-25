@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🔭 Atualmente trabalho com Design
+- 🔭 Atualmente trabalho com Design (Figma)
 - 🌱 Estudo edição de vídeo (Premiere Pro e After Effects)
 - 📫 Contate-me no email: contatovictorruan@gmail.com
 - 😄 Pronomes: Ele/Dele
