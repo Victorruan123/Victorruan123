@@ -3,7 +3,6 @@
 - 🔭 Atualmente trabalho com Design (Figma)
 - 🌱 Estudo edição de vídeo (Premiere Pro e After Effects)
 - 📫 Contate-me no email: contatovictorruan@gmail.com
-- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Sempre ouço música enquanto faço algum trabalho, me desperta algumas ideias
 
 <div style="display: inline_block"><br>
@@ -23,11 +22,25 @@
   <a href="https://www.behance.net/victorruan123" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
 </div>
 
-# Conheça meus projetos 🧐
+# Meus projetos 🧐
+1.  https://github.com/user-attachments/assets/a60b61ab-83db-4dfd-96a4-a85f04e248ad
+
+
+2.  https://github.com/user-attachments/assets/ab2c5bfd-d974-459e-aaf6-3da8c0563330
+
+
+3.  https://github.com/user-attachments/assets/570031df-fc44-40ec-87b5-882d8f768240
+
+
+4.  https://github.com/user-attachments/assets/0c7c53b3-8516-4c06-b37b-ec48cf2f7008
+
+## Resultado dos meus projetos 🧐
 
 <div>
-  <a href="https://www.figma.com/proto/pcau8ZsVTjhBNOYkuJtgxv/Startup?node-id=0-1&t=w9N38PZiQmNFqOhx-1"><img src="https://img.shields.io/badge/Primeiro_projeto-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-  <a href="https://www.figma.com/proto/qznRd0DPeFfiI5ut6Zk9jI/Trabalho-Eliane-13%2F11?node-id=0-3&starting-point-node-id=0%3A3&t=tr9i2tpmoKNbkac2-1"><img src="https://img.shields.io/badge/Segundo_projeto-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <a href="https://www.figma.com/proto/EtpDtquUTr8P3oaZS7MbkK/Untitled?node-id=2-3&t=ccrRHnEXWr5dn2fY-1"><img src="https://img.shields.io/badge/App_de_Comida-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://www.figma.com/proto/y0NaniP5cnQDdGmaRQ0qJY/Startup-MPV?node-id=2-2&starting-point-node-id=2%3A2&t=ji6OUWuYATwuETq7-1"><img src="https://img.shields.io/badge/Site_da_Startup-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://www.figma.com/proto/4ciH0Ta6mRA67IDHBRycf0/Tech.AI?node-id=1-2&t=YbGWr8hD9H5EXpTA-1"><img src="https://img.shields.io/badge/Site_Tech_AI-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://www.figma.com/proto/iQKGhIMFVm5wX1CQUTfNwT/Geometricc?node-id=6-2&t=c8wpVBOWGv9WeOyo-1"><img src="https://img.shields.io/badge/Site_Geometricc-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 <picture>
