@@ -34,7 +34,7 @@
 
 4.  https://github.com/user-attachments/assets/0c7c53b3-8516-4c06-b37b-ec48cf2f7008
 
-## Resultado dos meus projetos 🧐
+## Resultado dos meus projetos 😁
 
 <div>
   <a href="https://www.figma.com/proto/EtpDtquUTr8P3oaZS7MbkK/Untitled?node-id=2-3&t=ccrRHnEXWr5dn2fY-1"><img src="https://img.shields.io/badge/App_de_Comida-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
