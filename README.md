@@ -43,11 +43,4 @@
   <a href="https://www.figma.com/proto/iQKGhIMFVm5wX1CQUTfNwT/Geometricc?node-id=6-2&t=c8wpVBOWGv9WeOyo-1"><img src="https://img.shields.io/badge/Site_Geometricc-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victorruan123/Victorruan123/output/github-contribution-grid-snake.svg">
-</picture>
-
-
   
